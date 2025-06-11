@@ -88,7 +88,7 @@ Use tools such as **ModelSim** or **Quartus** to:
 ├── DisplayModules.v         # Modules related to display logic
 ├── UtilityModules.v         # Support modules (adders, bit extension)
 ├── README.md                # Project documentation
-├── Simulation files         # Optional: testbenches and waveforms
+├── Simulation files         # Testbenches and waveforms
 └── Logic Design Project.pdf # Project description from the course
 ```
 
