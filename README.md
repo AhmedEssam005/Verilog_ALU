@@ -72,23 +72,21 @@ Use tools such as **ModelSim** or **Quartus** to:
   - Seven-segment displays for current input and results
   - LEDs for negative result, zero, and divide-by-zero indicators
 
-## Team Information
+## Team Members
 
-- Project by a team of 3–4 students
-- Course: **CMP101 – Logic Design**
-- Institution: **Cairo University, Faculty of Engineering**
+- Ahmed Essam
+- Ahmed Gamal
+- Habiba Mahmoud
+- Maryam Gamal
 
 ## File Structure
 
 ```
 .
-├── Calculator.v             # Top-level design controller
-├── Manager.v                # Central module for managing operations
-├── ArithmeticModules.v      # All arithmetic logic (Add, Sub, Mul, Div)
-├── DisplayModules.v         # Modules related to display logic
-├── UtilityModules.v         # Support modules (adders, bit extension)
-├── README.md                # Project documentation
-├── Simulation files         # Testbenches and waveforms
-└── Logic Design Project.pdf # Project description from the course
+├── ALU Block Diagram.pdf               # Visual diagram of ALU structure
+├── ALU_WaveForm.pdf                    # Simulation waveform results
+├── Calculator.v                        # Complete Verilog code
+├── Logic Design Project Description Fall 2024.pdf  # Project description document
+├── README.md                           # Project documentation
 ```
 
